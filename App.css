@@ -1,0 +1,10 @@
+.card{
+  margin: auto;
+  margin-top: 10px;
+  width: 50%;
+  box-shadow:0 0px 35px rgba(0, 0, 0, 0.08);
+  text-size-adjust: 10%;
+}
+.p{
+  text-size-adjust: 10%;
+}
